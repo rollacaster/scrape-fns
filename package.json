@@ -1,6 +1,6 @@
 {
   "name": "scrape-fns",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Functional helper functions for scraping",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "fp",
     "utils"
   ],
+  "repository": "https://github.com/rollacaster/scrape-fns",
   "author": "Thomas Sojka",
   "license": "MIT",
   "dependencies": {
