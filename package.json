@@ -15,7 +15,7 @@
   "author": "Thomas Sojka",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "crocks": "^0.9.0",
     "jsdom": "^11.6.2"
   }
